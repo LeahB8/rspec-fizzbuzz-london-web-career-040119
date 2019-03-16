@@ -14,8 +14,4 @@ def fizzbuzz(int)
     return "Buzz"
   end
   
-  else
-    return nil
-  end
-  
 end
